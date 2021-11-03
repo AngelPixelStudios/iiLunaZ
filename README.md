@@ -35,10 +35,5 @@ You can use the website to generate badges: https://shields.io/
   <br />
 </p>
 
----
-
-<a href="https://github.com/iilunaz/github-readme-stats">
-   <img width="60%" alt="LunaZ's github stats" src="https://github-readme-stats.vercel.app/api?username=iilunaz&show_icons=true&hide_border=true" />
-</a>
 
 -----
