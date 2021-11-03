@@ -1,11 +1,5 @@
-<!-- Your title -->
-## Hello, I'm iiLunaZ!
+Hello, I'm iiLunaZ!
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-<!-- Talking about you -->
 **About Me:**
 
 - I’m currently working on __[DUB](https://dubbot.xyz)__.
